@@ -4,9 +4,9 @@ The objective of this project was to assess market demand, feasibility, weakness
 
 **Data**
 
--Order-level and product-level transactional data
--Customer purchase frequency and sales volume
--Pricing, discount, shipping cost, and payment-related attributes
+- Order-level and product-level transactional data
+- Customer purchase frequency and sales volume
+- Pricing, discount, shipping cost, and payment-related attributes
 
 **Key Fields Included**
 
@@ -16,9 +16,9 @@ Dataset sourced from Kaggle and used for analytical demonstration purposes.
 
 **Approach**
 
--Used MySQL to explore demand patterns, product frequency, customer consumption behavior, and perform initial data cleaning.
--Applied Python for further data cleaning, aggregation, and exploratory analysis to structure insights across multiple business dimensions.
--Focused analysis on identifying demand concentration, profitability drivers, and operational performance indicators.
+- Used MySQL to explore demand patterns, product frequency, customer consumption behavior, and perform initial data cleaning.
+- Applied Python for further data cleaning, aggregation, and exploratory analysis to structure insights across multiple business dimensions.
+- Focused analysis on identifying demand concentration, profitability drivers, and operational performance indicators.
 
 **Tools**
 
