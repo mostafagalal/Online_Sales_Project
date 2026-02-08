@@ -34,4 +34,5 @@ Dataset sourced from Kaggle and used for analytical demonstration purposes.
 - Bank Transfer was the most commonly used payment method, highlighting customer preference and potential implications for payment optimization.
 
 **Outcome**
+
 This analysis demonstrated how transactional data can be used to identify demand trends, geographic performance differences, and operational efficiencies to support commercial analysis and data-driven decision making.
